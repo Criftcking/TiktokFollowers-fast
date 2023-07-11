@@ -1,5 +1,4 @@
 requests
 colorama
-json
 time
 pyarmor

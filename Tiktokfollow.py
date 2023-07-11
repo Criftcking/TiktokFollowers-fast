@@ -360,7 +360,12 @@ def automatic():
                 time.sleep(2)
 
 
-
+def limpiar_terminal():
+    if os.name == 'nt':  # Windows
+        os.system('cls')
+    else:  # Linux/Unix/Mac
+        os.system('clear')
+limpiar_terminal()
 
 print(Fore.LIGHTBLACK_EX+"""
 

@@ -12,6 +12,17 @@ Please note that using tools or methods to gain followers on TikTok instantly ma
 
 <h1>Images</h1>
  <img src="foto1.jpg" alt="Followers">
-
 <img src="foto2.jpg" alt="Followers">
-<img src="video.mp4" alt="Followers">
+
+
+
+
+https://github.com/Criftcking/TiktokFollowers-fast/assets/86767725/0734d29a-b6d7-4f42-a7ea-03b32d40ce54
+
+
+
+
+
+https://github.com/Criftcking/TiktokFollowers-fast/assets/86767725/15bc404d-6645-4519-9a34-5fe80b69c81b
+
+

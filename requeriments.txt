@@ -1,5 +1,4 @@
 requests
 colorama
 pyarmor
-re
 bs4

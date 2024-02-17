@@ -15,14 +15,7 @@ Please note that using tools or methods to gain followers on TikTok instantly ma
 <img src="foto2.jpg" alt="Followers">
 
 
+<H1>Later Update: 17/01/2024 ...</H1>
 
 
-https://github.com/Criftcking/TiktokFollowers-fast/assets/86767725/0734d29a-b6d7-4f42-a7ea-03b32d40ce54
-
-
-
-
-
-https://github.com/Criftcking/TiktokFollowers-fast/assets/86767725/15bc404d-6645-4519-9a34-5fe80b69c81b
-
-
+![follow](https://github.com/Criftcking/TiktokFollowers-fast/assets/86767725/5faee57f-5faf-4df5-b2eb-ecc5e6d2490d)

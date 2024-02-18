@@ -15,5 +15,5 @@ Please note that using tools or methods to gain followers on TikTok instantly ma
 ![follow](https://github.com/Criftcking/TiktokFollowers-fast/assets/86767725/5faee57f-5faf-4df5-b2eb-ecc5e6d2490d)
 
 
-https://github.com/Criftcking/TiktokFollowers-fast/assets/86767725/adfee5bd-4a98-46ae-ac9a-2c98879f2126
+
 

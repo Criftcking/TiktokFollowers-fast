@@ -94,14 +94,10 @@ def main():
                     csrf_ATK = valore
                     
                     
-                    inicio = followresponse.find('success":true,"data":"') + 1  # Encontrar el índice de inicio
-                    fin = followresponse.find('</strong><span class=\"d-block text-sm', inicio)  # Encontrar el índice de fin
-                    cadena = followresponse[inicio:fin]  # Extraer la cadena entre los índices de inicio y fin
-                    separado = cadena[1228:1231]  # Eliminar " Followers " y extraer el número
-                    seguidores = separado  # Convertir la cadena a entero
-
-                    print(Fore.LIGHTYELLOW_EX+"Followers:", seguidores+Fore.RESET)
                     
+                    cantidad_match = re.search(r'<strong>(\d+)</strong>', followresponse)
+                    cantidad = cantidad_match.group(1)
+                    print(Fore.LIGHTYELLOW_EX+"Followers:", cantidad+Fore.RESET)
                     
                     
                     
